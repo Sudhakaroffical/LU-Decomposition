@@ -29,6 +29,7 @@ P,L,U=lu(A)
 print(L)
 print(U)
 ```
+
 (ii) To find the LU Decomposition of a matrix
 ```python
 /*
@@ -49,6 +50,8 @@ print(solution)
 ## Output:
 ![sl1](https://user-images.githubusercontent.com/118622513/213903132-54698107-2af5-41e1-8cc2-67bc3e93edb4.png)
 ![sl2](https://user-images.githubusercontent.com/118622513/213903134-1d799172-eb7a-4d0d-9806-1e12d8c8f221.png)
+
+
 
 
 
